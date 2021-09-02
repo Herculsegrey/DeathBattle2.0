@@ -718,3 +718,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-08.05.58:243][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
 [2021.09.02-08.05.59:839][848]LogRenderer: Reallocating scene render targets to support 1024x540 Format 10 NumSamples 1 (Frame:107).
 [2021.09.02-08.06.00:101][863]LogSlate: Window 'Map' being destroyed
+[2021.09.02-08.15.58:341][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.09.02-08.15.58:343][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 0.033
+[2021.09.02-08.15.58:344][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Map] ([1] browsable assets)...
+[2021.09.02-08.15.58:344][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Map]
+[2021.09.02-08.15.58:352][845]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/Map_Auto1A070516B413DD51E1ABB43BB0E223801.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/Autosaves/Game/Blueprints/Map_Auto1.uasset'
+[2021.09.02-08.15.58:353][845]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.09.02-08.27.30:404][765]LogTemp: Resetting audio stream to device id 
+[2021.09.02-08.27.30:455][765]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-08.27.30:455][765]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-08.27.31:736][769]LogTemp: Resetting audio stream to device id 
+[2021.09.02-08.30.10:067][769]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-08.30.10:067][769]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-08.30.10:440][770]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.09.02-08.30.10:460][770]LogTemp: Resetting audio stream to device id 
+[2021.09.02-08.30.10:494][770]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-08.30.10:494][770]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-08.30.10:847][771]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.09.02-08.30.11:346][772]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.09.02-08.36.47:502][402]LogSlate: Window 'New Plugin' being destroyed
+[2021.09.02-08.37.15:289][119]LogSlate: Window 'New Plugin' being destroyed
+[2021.09.02-08.41.50:529][370]LogSlate: Window 'Plugins' being destroyed
+[2021.09.02-08.41.50:540][370]LogSlate: Window 'Plugins' being destroyed
+[2021.09.02-08.41.50:540][370]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.09.02-08.41.51:545][454]BlueprintLog: New page: Compile Map
+[2021.09.02-08.41.51:631][454]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.09.02-08.41.52:295][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Map" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map.uasset" SILENT=true
+[2021.09.02-08.41.52:306][504]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/MapFFD5A58A40770E55A14056B0393AB421.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map.uasset'
+[2021.09.02-08.41.52:362][504]AssetCheck: New page: Asset Save: Map
+[2021.09.02-08.41.52:362][504]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Map.Map
