@@ -657,3 +657,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-07.59.47:003][687]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.02-07.59.47:003][687]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
 [2021.09.02-07.59.47:003][687]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.09.02-08.01.36:990][369]LogRenderer: Reallocating scene render targets to support 880x340 Format 10 NumSamples 1 (Frame:1503).
+[2021.09.02-08.01.37:036][370]LogRenderer: Reallocating scene render targets to support 884x340 Format 10 NumSamples 1 (Frame:1505).
+[2021.09.02-08.01.37:091][371]LogRenderer: Reallocating scene render targets to support 888x340 Format 10 NumSamples 1 (Frame:1507).
+[2021.09.02-08.01.39:899][518]LogRenderer: Reallocating scene render targets to support 932x340 Format 10 NumSamples 1 (Frame:1637).
+[2021.09.02-08.01.39:975][519]LogRenderer: Reallocating scene render targets to support 956x340 Format 10 NumSamples 1 (Frame:1639).
+[2021.09.02-08.01.40:037][520]LogRenderer: Reallocating scene render targets to support 1004x340 Format 10 NumSamples 1 (Frame:1641).
+[2021.09.02-08.01.40:106][521]LogRenderer: Reallocating scene render targets to support 1020x340 Format 10 NumSamples 1 (Frame:1643).
+[2021.09.02-08.01.40:161][522]LogRenderer: Reallocating scene render targets to support 1024x340 Format 10 NumSamples 1 (Frame:1645).
+[2021.09.02-08.02.36:590][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.09.02-08.02.36:628][696]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/SideScrollerExampleMap924C2CB0493A59352F3EE0BF6D593557.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.09.02-08.02.36:932][696]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/SideScrollerExampleMap_BuiltDataC6285BF649FD492377EF0F9E937A7602.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.09.02-08.02.36:951][696]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-08.02.36:951][696]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.09.02-08.02.36:951][696]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.09.02-08.02.54:072][562]LogSlate: Window 'New Level' being destroyed
+[2021.09.02-08.02.54:083][562]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-08.02.54:152][562]LightingResults: New page: Lighting Build
+[2021.09.02-08.02.54:153][562]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.09.02-08.02.54:158][562]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-08.02.54:158][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-08.02.54:158][562]MapCheck: New page: Map Check
+[2021.09.02-08.02.54:158][562]LightingResults: New page: Lighting Build
+[2021.09.02-08.02.54:183][562]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023480719E00), frame # 6562
+[2021.09.02-08.02.54:183][562]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000234806FFB00), frame # 6562
+[2021.09.02-08.02.54:185][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.09.02-08.02.54:203][562]LogAIModule: Creating AISystem for world Untitled_1
+[2021.09.02-08.02.54:203][562]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000234806C9400), frame # 6562
+[2021.09.02-08.02.54:203][562]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002348208D080), frame # 6562
+[2021.09.02-08.02.54:209][562]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-08.02.54:230][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.09.02-08.02.54:246][562]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-08.02.54:246][562]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,229ms to complete.
+[2021.09.02-08.02.54:246][562]LogFileHelpers: Loading map 'Template_Default' took 0.163
+[2021.09.02-08.03.04:662][650]LogSlate: Window 'Save Level As' being destroyed
+[2021.09.02-08.03.04:749][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.09.02-08.03.04:770][650]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap65AB6B6A4B34196CC5DC60B3A947176C.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.02-08.03.04:802][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.02-08.03.04:819][650]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltDataCABEA01047F25FDF6EBAAB8787B59A83.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.02-08.03.04:830][650]LogFileHelpers: Saving map 'NewMap' took 0.154
+[2021.09.02-08.03.04:838][650]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-08.03.04:838][650]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.02-08.03.04:838][650]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.02-08.03.06:905][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.09.02-08.03.06:938][769]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap9A6F2FEB40FBB01DAB1AFF83ED929B26.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.02-08.03.06:976][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.02-08.03.06:995][769]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltData8EF8C6CB4AD8F0B69103DA8557223286.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.02-08.03.07:015][769]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-08.03.07:015][769]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.02-08.03.07:015][769]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
