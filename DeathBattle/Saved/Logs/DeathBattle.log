@@ -706,3 +706,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-08.03.07:015][769]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.02-08.03.07:015][769]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
 [2021.09.02-08.03.07:015][769]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.02-08.05.47:061][293]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.02-08.05.54:502][728]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Map.Map
+[2021.09.02-08.05.54:988][728]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 125 classes and 0 folders.
+[2021.09.02-08.05.58:147][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.09.02-08.05.58:164][775]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMapEC7B7E0F433A41A155715290D3CD6CCF.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.02-08.05.58:195][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.02-08.05.58:211][775]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltDataF1ACB8A049164A1D1F07D098D78116ED.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.02-08.05.58:243][775]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-08.05.58:243][775]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.02-08.05.58:243][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.02-08.05.59:839][848]LogRenderer: Reallocating scene render targets to support 1024x540 Format 10 NumSamples 1 (Frame:107).
+[2021.09.02-08.06.00:101][863]LogSlate: Window 'Map' being destroyed
