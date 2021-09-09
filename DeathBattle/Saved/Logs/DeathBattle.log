@@ -724,3 +724,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.09-08.24.16:419][164]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.09-08.24.16:419][164]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
 [2021.09.09-08.24.16:419][164]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.09.09-08.28.50:347][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.09-08.28.50:373][163]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/SideScrollerExampleMapD78750E4452BC7F8173863A91E22A396.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.09.09-08.28.50:582][163]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/SideScrollerExampleMap_BuiltDataE76D6B3A4572300C1BEE39AC6E58DDCC.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.09.09-08.28.50:595][163]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.09-08.28.50:595][163]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.09.09-08.28.50:595][163]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
