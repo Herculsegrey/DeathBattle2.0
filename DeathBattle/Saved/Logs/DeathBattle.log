@@ -2157,3 +2157,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.09-07.02.22:102][539]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.09-07.02.22:102][539]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
 [2021.09.09-07.02.22:102][539]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.09-07.02.50:824][105]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.09-07.02.54:873][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.09.09-07.02.54:895][344]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap2CA7AA2341F65393309F60AF1CB65C17.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.09-07.02.54:924][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.09-07.02.54:937][344]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltDataC9C71DA041B66F4121EF45B4ADD6A1C4.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.09-07.02.54:960][344]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.09-07.02.54:960][344]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.09-07.02.54:960][344]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
