@@ -1716,3 +1716,444 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.09-06.54.55:554][590]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.09-06.54.55:554][590]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
 [2021.09.09-06.54.55:554][590]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.09-06.55.40:065][383]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\rasmus.jacobsson\Desktop\Map2.0.fbx)
+[2021.09.09-06.55.40:078][383]LogFbx: Loading FBX Scene from C:\Users\rasmus.jacobsson\Desktop\Map2.0.fbx
+[2021.09.09-06.55.40:087][383]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.09-06.55.45:040][383]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.09-06.55.45:210][383]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.09.09-06.55.45:223][383]LogStaticMesh: Building static mesh Map2_0...
+[2021.09.09-06.55.45:231][383]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Map2_0.Map2_0
+[2021.09.09-06.55.45:242][383]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.09-06.55.45:353][383]LogSlate: Took 0.010579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.09-06.55.47:280][490]LogSlate: Window 'Message Log' being destroyed
+[2021.09.09-06.55.47:297][490]LogSlate: Window 'Message Log' being destroyed
+[2021.09.09-06.55.51:156][768]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\rasmus.jacobsson\Desktop\Map1.0.fbx)
+[2021.09.09-06.55.51:195][768]LogFbx: Loading FBX Scene from C:\Users\rasmus.jacobsson\Desktop\Map1.0.fbx
+[2021.09.09-06.55.51:207][768]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.09-06.55.54:025][768]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.09-06.55.54:055][768]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.09.09-06.55.54:064][768]LogStaticMesh: Building static mesh Map1_0...
+[2021.09.09-06.55.54:066][768]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Map1_0.Map1_0
+[2021.09.09-06.55.54:076][768]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.09-06.55.55:779][891]LogSlate: Window 'Message Log' being destroyed
+[2021.09.09-06.55.55:803][891]LogSlate: Window 'Message Log' being destroyed
+[2021.09.09-06.56.29:290][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1)
+[2021.09.09-06.56.44:778][752]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.56.46:168][858]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.56.52:048][274]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-06.56.53:467][383]Cmd: TRANSACTION UNDO
+[2021.09.09-06.56.53:467][383]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.09-06.56.55:201][476]Cmd: TRANSACTION UNDO
+[2021.09.09-06.56.55:201][476]LogEditorTransaction: Undo Move Actors
+[2021.09.09-06.56.57:246][608]Cmd: TRANSACTION UNDO
+[2021.09.09-06.56.57:246][608]LogEditorTransaction: Undo Create Actors
+[2021.09.09-06.57.01:393][829]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Map1_0.Map1_0
+[2021.09.09-06.57.01:638][829]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-06.57.01:638][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-06.57.06:609][112]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.57.09:895][280]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.57.10:544][305]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.57.11:751][373]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.57.28:989][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-06.57.31:407][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_0)
+[2021.09.09-06.57.51:275][843]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-06.57.53:592][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_0)
+[2021.09.09-06.58.09:857][617]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-06.58.14:870][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_0)
+[2021.09.09-06.58.26:561][276]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-06.58.27:257][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_0)
+[2021.09.09-06.58.44:882][956]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-06.58.46:762][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1)
+[2021.09.09-06.58.51:460][308]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-06.58.52:730][378]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2021.09.09-06.59.04:560][838]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.09-06.59.04:576][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.09-06.59.04:576][838]PIE: New page: PIE session: NewMap (9 sep. 2021 10:59:04)
+[2021.09.09-06.59.04:577][838]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-06.59.04:582][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004930s)
+[2021.09.09-06.59.04:583][838]LogAIModule: Creating AISystem for world NewMap
+[2021.09.09-06.59.04:583][838]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001441EDC6A00), frame # 75838
+[2021.09.09-06.59.04:583][838]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001438BCB7240), frame # 75838
+[2021.09.09-06.59.04:583][838]LogPlayLevel: PIE: World Init took: (0.001741s)
+[2021.09.09-06.59.04:584][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.006856s)
+[2021.09.09-06.59.04:628][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.09.09-06.59.04:632][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.09-06.59.04:632][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.09-06.59.04:632][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.09-06.59.04:632][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.09-06.59.04:632][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.09-06.59.04:633][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.09-06.59.04:633][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.09-06.59.04:633][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.09-06.59.04:633][838]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.09-06.59.04:633][838]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.09-06.59.04:636][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.09-06.59.04:637][838]LogAudioMixer: Display: 1: FrontRight
+[2021.09.09-06.59.04:663][838]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.09-06.59.04:663][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.09-06.59.04:664][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.09-06.59.04:664][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.09-06.59.04:664][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.09-06.59.04:687][838]LogInit: FAudioDevice initialized.
+[2021.09.09-06.59.04:697][838]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.09-06.59.04:700][838]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.09.09-08.59.04
+[2021.09.09-06.59.04:700][838]LogWorld: Bringing up level for play took: 0.001762
+[2021.09.09-06.59.04:700][838]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.09.09-06.59.04:703][838]PIE: Server logged in
+[2021.09.09-06.59.04:704][838]PIE: Play in editor total start time 0,128 seconds.
+[2021.09.09-06.59.08:101][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-06.59.08:101][ 96]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-06.59.08:101][ 96]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-06.59.08:101][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-06.59.08:111][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.09-06.59.08:114][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-06.59.08:166][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-06.59.08:167][ 96]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001438BCB7240), frame # 76096
+[2021.09.09-06.59.08:167][ 96]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001441EDC6A00), frame # 76096
+[2021.09.09-06.59.08:171][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.09.09-06.59.08:205][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.09.09-06.59.16:432][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Map1_0" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map1_0.uasset" SILENT=true
+[2021.09.09-06.59.16:450][598]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/Map1_041FC7AE9498C2FB395B71180233ED952.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map1_0.uasset'
+[2021.09.09-06.59.16:476][598]AssetCheck: New page: Asset Save: Map1_0
+[2021.09.09-06.59.16:476][598]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Map1_0.Map1_0
+[2021.09.09-06.59.18:558][725]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.09-06.59.18:574][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.09-06.59.18:574][725]PIE: New page: PIE session: NewMap (9 sep. 2021 10:59:18)
+[2021.09.09-06.59.18:575][725]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-06.59.18:580][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005276s)
+[2021.09.09-06.59.18:581][725]LogAIModule: Creating AISystem for world NewMap
+[2021.09.09-06.59.18:581][725]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000144361B4800), frame # 76725
+[2021.09.09-06.59.18:581][725]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014390106840), frame # 76725
+[2021.09.09-06.59.18:582][725]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2021.09.09-06.59.18:582][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.007002s)
+[2021.09.09-06.59.18:625][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.09-06.59.18:628][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.09-06.59.18:628][725]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.09-06.59.18:628][725]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.09-06.59.18:631][725]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.09-06.59.18:631][725]LogAudioMixer: Display: 1: FrontRight
+[2021.09.09-06.59.18:655][725]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.09-06.59.18:656][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.09-06.59.18:656][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.09-06.59.18:656][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.09-06.59.18:656][725]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.09-06.59.18:679][725]LogInit: FAudioDevice initialized.
+[2021.09.09-06.59.18:690][725]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.09-06.59.18:693][725]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.09.09-08.59.18
+[2021.09.09-06.59.18:693][725]LogWorld: Bringing up level for play took: 0.001585
+[2021.09.09-06.59.18:693][725]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.09.09-06.59.18:696][725]PIE: Server logged in
+[2021.09.09-06.59.18:697][725]PIE: Play in editor total start time 0,124 seconds.
+[2021.09.09-06.59.21:120][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-06.59.21:120][983]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-06.59.21:120][983]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-06.59.21:121][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-06.59.21:128][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.09-06.59.21:133][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-06.59.21:164][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-06.59.21:193][983]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014390106840), frame # 76983
+[2021.09.09-06.59.21:193][983]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000144361B4800), frame # 76983
+[2021.09.09-06.59.21:197][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.09.09-06.59.21:224][984]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.09.09-06.59.22:991][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_0)
+[2021.09.09-06.59.25:007][157]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.59.29:962][427]LogActorFactory: Actor Factory created Map1_0
+[2021.09.09-06.59.58:285][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_0)
+[2021.09.09-06.59.59:434][468]Cmd: DELETE
+[2021.09.09-06.59.59:435][468]Cmd: ACTOR DELETE
+[2021.09.09-06.59.59:438][468]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.09-06.59.59:484][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.09.09-06.59.59:488][468]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.09.09-06.59.59:996][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_1)
+[2021.09.09-07.00.05:486][753]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.09-07.00.05:504][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.09-07.00.05:504][753]PIE: New page: PIE session: NewMap (9 sep. 2021 11:00:05)
+[2021.09.09-07.00.05:529][753]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.00.05:538][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007673s)
+[2021.09.09-07.00.05:540][753]LogAIModule: Creating AISystem for world NewMap
+[2021.09.09-07.00.05:541][753]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001443A3AB800), frame # 78753
+[2021.09.09-07.00.05:541][753]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001438E6CBB00), frame # 78753
+[2021.09.09-07.00.05:541][753]LogPlayLevel: PIE: World Init took: (0.003418s)
+[2021.09.09-07.00.05:541][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.011468s)
+[2021.09.09-07.00.05:575][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.09.09-07.00.05:577][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.09-07.00.05:577][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.09-07.00.05:577][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.09-07.00.05:577][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.09-07.00.05:577][753]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.09-07.00.05:577][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.09-07.00.05:577][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.09-07.00.05:577][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.09-07.00.05:578][753]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.09-07.00.05:578][753]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.09-07.00.05:581][753]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.09-07.00.05:581][753]LogAudioMixer: Display: 1: FrontRight
+[2021.09.09-07.00.05:606][753]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.09-07.00.05:606][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.09-07.00.05:606][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.09-07.00.05:606][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.09-07.00.05:607][753]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.09-07.00.05:628][753]LogInit: FAudioDevice initialized.
+[2021.09.09-07.00.05:636][753]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.09-07.00.05:639][753]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.09.09-09.00.05
+[2021.09.09-07.00.05:639][753]LogWorld: Bringing up level for play took: 0.001470
+[2021.09.09-07.00.05:639][753]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.09.09-07.00.05:642][753]PIE: Server logged in
+[2021.09.09-07.00.05:643][753]PIE: Play in editor total start time 0,139 seconds.
+[2021.09.09-07.00.08:590][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.00.08:591][ 24]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.00.08:591][ 24]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-07.00.08:591][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.00.08:605][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.09-07.00.08:610][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.00.08:639][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.00.08:664][ 24]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001438E6CBB00), frame # 79024
+[2021.09.09-07.00.08:664][ 24]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001443A3AB800), frame # 79024
+[2021.09.09-07.00.08:667][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.09-07.00.08:694][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.09.09-07.00.11:016][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_1)
+[2021.09.09-07.00.12:807][237]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.09-07.00.12:824][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.09-07.00.12:824][237]PIE: New page: PIE session: NewMap (9 sep. 2021 11:00:12)
+[2021.09.09-07.00.12:824][237]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.00.12:831][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006728s)
+[2021.09.09-07.00.12:833][237]LogAIModule: Creating AISystem for world NewMap
+[2021.09.09-07.00.12:833][237]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000144365C9000), frame # 79237
+[2021.09.09-07.00.12:833][237]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014386F2E480), frame # 79237
+[2021.09.09-07.00.12:833][237]LogPlayLevel: PIE: World Init took: (0.002497s)
+[2021.09.09-07.00.12:834][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.009499s)
+[2021.09.09-07.00.12:870][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.09.09-07.00.12:872][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.09-07.00.12:872][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.09-07.00.12:872][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.09-07.00.12:872][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.09-07.00.12:872][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.09-07.00.12:872][237]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.09-07.00.12:872][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.09-07.00.12:872][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.09-07.00.12:873][237]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.09-07.00.12:873][237]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.09-07.00.12:876][237]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.09-07.00.12:876][237]LogAudioMixer: Display: 1: FrontRight
+[2021.09.09-07.00.12:903][237]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.09-07.00.12:903][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.09-07.00.12:903][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.09-07.00.12:903][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.09-07.00.12:904][237]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.09-07.00.12:926][237]LogInit: FAudioDevice initialized.
+[2021.09.09-07.00.12:935][237]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.09-07.00.12:937][237]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.09.09-09.00.12
+[2021.09.09-07.00.12:938][237]LogWorld: Bringing up level for play took: 0.001636
+[2021.09.09-07.00.12:938][237]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.09.09-07.00.12:941][237]PIE: Server logged in
+[2021.09.09-07.00.12:942][237]PIE: Play in editor total start time 0,119 seconds.
+[2021.09.09-07.00.15:160][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.00.15:160][440]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.00.15:161][440]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-07.00.15:162][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.00.15:169][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.09-07.00.15:174][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.00.15:204][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.00.15:230][440]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014386F2E480), frame # 79440
+[2021.09.09-07.00.15:230][440]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000144365C9000), frame # 79440
+[2021.09.09-07.00.15:234][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.09.09-07.00.15:261][441]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.09.09-07.00.42:495][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Map1_0" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map1_0.uasset" SILENT=true
+[2021.09.09-07.00.42:522][155]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/Map1_0088803734711B1EEA71AB2A8AB90289E.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map1_0.uasset'
+[2021.09.09-07.00.42:544][155]AssetCheck: New page: Asset Save: Map1_0
+[2021.09.09-07.00.42:544][155]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Map1_0.Map1_0
+[2021.09.09-07.00.44:948][302]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.09-07.00.44:964][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.09-07.00.44:965][302]PIE: New page: PIE session: NewMap (9 sep. 2021 11:00:44)
+[2021.09.09-07.00.44:965][302]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.00.44:969][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004149s)
+[2021.09.09-07.00.44:971][302]LogAIModule: Creating AISystem for world NewMap
+[2021.09.09-07.00.44:971][302]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000144279ACE00), frame # 81302
+[2021.09.09-07.00.44:971][302]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001436AB4AFC0), frame # 81302
+[2021.09.09-07.00.44:971][302]LogPlayLevel: PIE: World Init took: (0.002714s)
+[2021.09.09-07.00.44:972][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.007052s)
+[2021.09.09-07.00.45:012][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.09.09-07.00.45:014][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.09-07.00.45:014][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.09-07.00.45:014][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.09-07.00.45:015][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.09-07.00.45:015][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.09-07.00.45:015][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.09-07.00.45:015][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.09-07.00.45:015][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.09-07.00.45:015][302]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.09-07.00.45:015][302]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.09-07.00.45:018][302]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.09-07.00.45:018][302]LogAudioMixer: Display: 1: FrontRight
+[2021.09.09-07.00.45:043][302]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.09-07.00.45:043][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.09-07.00.45:043][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.09-07.00.45:044][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.09-07.00.45:044][302]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.09-07.00.45:065][302]LogInit: FAudioDevice initialized.
+[2021.09.09-07.00.45:073][302]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.09-07.00.45:076][302]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.09.09-09.00.45
+[2021.09.09-07.00.45:076][302]LogWorld: Bringing up level for play took: 0.001593
+[2021.09.09-07.00.45:076][302]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.09.09-07.00.45:079][302]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.09-07.00.45:080][302]PIE: Server logged in
+[2021.09.09-07.00.45:081][302]PIE: Play in editor total start time 0,117 seconds.
+[2021.09.09-07.00.49:370][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.00.49:370][762]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.00.49:371][762]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-07.00.49:371][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.00.49:380][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.09-07.00.49:386][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.00.49:443][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.00.49:444][762]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001436AB4AFC0), frame # 81762
+[2021.09.09-07.00.49:444][762]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000144279ACE00), frame # 81762
+[2021.09.09-07.00.49:447][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.09-07.00.49:474][763]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.09.09-07.01.04:630][602]LogStaticMesh: Building static mesh Map1...
+[2021.09.09-07.01.04:630][602]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.09-07.01.04:646][602]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Map1.Map1
+[2021.09.09-07.01.06:146][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Map1" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map1.uasset" SILENT=true
+[2021.09.09-07.01.06:164][699]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/Map1E8F66991419D6B8D82224B9BF03C9D45.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Blueprints/Map1.uasset'
+[2021.09.09-07.01.06:181][699]AssetCheck: New page: Asset Save: Map1
+[2021.09.09-07.01.06:181][699]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Map1.Map1
+[2021.09.09-07.01.10:589][941]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.09-07.01.12:156][ 23]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2021.09.09-07.01.15:473][182]Cmd: TRANSACTION UNDO
+[2021.09.09-07.01.15:473][182]LogEditorTransaction: Undo Move Actors
+[2021.09.09-07.01.18:922][286]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2021.09.09-07.01.35:040][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.09-07.01.35:056][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.09-07.01.35:057][ 12]PIE: New page: PIE session: NewMap (9 sep. 2021 11:01:35)
+[2021.09.09-07.01.35:057][ 12]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.01.35:062][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005604s)
+[2021.09.09-07.01.35:065][ 12]LogAIModule: Creating AISystem for world NewMap
+[2021.09.09-07.01.35:066][ 12]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001444E05A200), frame # 84012
+[2021.09.09-07.01.35:066][ 12]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014354F0A340), frame # 84012
+[2021.09.09-07.01.35:066][ 12]LogPlayLevel: PIE: World Init took: (0.003667s)
+[2021.09.09-07.01.35:066][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.009519s)
+[2021.09.09-07.01.35:115][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.09-07.01.35:120][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.09-07.01.35:120][ 12]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.09-07.01.35:120][ 12]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.09-07.01.35:123][ 12]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.09-07.01.35:123][ 12]LogAudioMixer: Display: 1: FrontRight
+[2021.09.09-07.01.35:149][ 12]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.09-07.01.35:149][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.09-07.01.35:149][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.09-07.01.35:149][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.09-07.01.35:150][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.09-07.01.35:171][ 12]LogInit: FAudioDevice initialized.
+[2021.09.09-07.01.35:179][ 12]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.09-07.01.35:182][ 12]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.09.09-09.01.35
+[2021.09.09-07.01.35:182][ 12]LogWorld: Bringing up level for play took: 0.001522
+[2021.09.09-07.01.35:182][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.09.09-07.01.35:184][ 12]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.09-07.01.35:184][ 12]PIE: Server logged in
+[2021.09.09-07.01.35:185][ 12]PIE: Play in editor total start time 0,13 seconds.
+[2021.09.09-07.01.43:521][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.01.43:521][654]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.01.43:522][654]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-07.01.43:522][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.01.43:535][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.09-07.01.43:543][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.01.43:603][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.01.43:604][654]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014354F0A340), frame # 84654
+[2021.09.09-07.01.43:604][654]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001444E05A200), frame # 84654
+[2021.09.09-07.01.43:608][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.09.09-07.01.43:643][655]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.09.09-07.01.47:729][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.09.09-07.01.47:760][865]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMapE7918A93489FB800C38D39833BF3D7CA.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.09-07.01.47:788][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.09-07.01.47:804][865]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltData3FC0B1324022093FF37C728DCF309C44.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.09-07.01.47:830][865]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.09-07.01.47:830][865]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.09-07.01.47:830][865]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.09-07.01.51:208][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_1)
+[2021.09.09-07.01.52:394][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1_1)
+[2021.09.09-07.01.52:788][124]Cmd: DELETE
+[2021.09.09-07.01.52:788][124]Cmd: ACTOR DELETE
+[2021.09.09-07.01.52:790][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.09-07.01.52:840][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.09.09-07.01.52:843][124]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.09.09-07.01.53:600][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.09-07.01.53:804][173]Cmd: DELETE
+[2021.09.09-07.01.53:804][173]Cmd: ACTOR DELETE
+[2021.09.09-07.01.53:805][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.09-07.01.53:842][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.09.09-07.01.53:844][173]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.09.09-07.01.55:178][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map1)
+[2021.09.09-07.02.01:406][505]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2021.09.09-07.02.13:663][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.09.09-07.02.13:685][ 34]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap6256618141CEB4D2ADFE59B6A20976F9.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.09-07.02.13:711][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.09-07.02.13:725][ 34]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltData894677584B2FAFE2BCD24F93A5DF4D86.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.09-07.02.13:751][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.09-07.02.13:751][ 34]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.09-07.02.13:751][ 34]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.09-07.02.16:550][145]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.09-07.02.16:566][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.09-07.02.16:566][145]PIE: New page: PIE session: NewMap (9 sep. 2021 11:02:16)
+[2021.09.09-07.02.16:566][145]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.02.16:570][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003483s)
+[2021.09.09-07.02.16:572][145]LogAIModule: Creating AISystem for world NewMap
+[2021.09.09-07.02.16:572][145]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001437F4D6A00), frame # 86145
+[2021.09.09-07.02.16:572][145]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001438BA1DA80), frame # 86145
+[2021.09.09-07.02.16:573][145]LogPlayLevel: PIE: World Init took: (0.002618s)
+[2021.09.09-07.02.16:573][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.006263s)
+[2021.09.09-07.02.16:610][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.09.09-07.02.16:611][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.09-07.02.16:611][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.09-07.02.16:611][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.09-07.02.16:611][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.09-07.02.16:612][145]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.09-07.02.16:612][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.09-07.02.16:612][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.09-07.02.16:612][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.09-07.02.16:612][145]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.09-07.02.16:612][145]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.09-07.02.16:615][145]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.09-07.02.16:615][145]LogAudioMixer: Display: 1: FrontRight
+[2021.09.09-07.02.16:641][145]LogAudioMixer: Display: Using Audio Device Högtalare (Realtek(R) Audio)
+[2021.09.09-07.02.16:641][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.09-07.02.16:641][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.09-07.02.16:641][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.09-07.02.16:643][145]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.09-07.02.16:665][145]LogInit: FAudioDevice initialized.
+[2021.09.09-07.02.16:683][145]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.09.09-07.02.16:687][145]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.09.09-09.02.16
+[2021.09.09-07.02.16:687][145]LogWorld: Bringing up level for play took: 0.002318
+[2021.09.09-07.02.16:687][145]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.09.09-07.02.16:692][145]PIE: Server logged in
+[2021.09.09-07.02.16:694][145]PIE: Play in editor total start time 0,129 seconds.
+[2021.09.09-07.02.20:933][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.02.20:933][488]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2021.09.09-07.02.20:933][488]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.09-07.02.20:933][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.02.20:941][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.09-07.02.20:946][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.09-07.02.20:998][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.09-07.02.20:999][488]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001438BA1DA80), frame # 86488
+[2021.09.09-07.02.20:999][488]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001437F4D6A00), frame # 86488
+[2021.09.09-07.02.21:002][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.09.09-07.02.21:036][489]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.09.09-07.02.22:015][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.09.09-07.02.22:036][539]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMapE9F6589B4A6FBEFBEAA20D8E58F31985.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.09-07.02.22:067][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.09-07.02.22:081][539]LogSavePackage: Moving '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltData0F2C1FD844281D81D1D405B0A577A008.tmp' to '../../../../../Users/rasmus.jacobsson/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.09-07.02.22:102][539]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.09-07.02.22:102][539]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.09-07.02.22:102][539]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
