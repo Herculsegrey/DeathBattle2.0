@@ -1239,3 +1239,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.09-08.08.56:160][845]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.09-08.08.56:160][845]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
 [2021.09.09-08.08.56:160][845]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
+[2021.09.09-08.12.14:060][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.09-08.12.14:076][207]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap502F935F4B3F50EE990A0681AB267197.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap.umap'
+[2021.09.09-08.12.14:096][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2021.09.09-08.12.14:110][207]LogSavePackage: Moving '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Saved/NewMap_BuiltDataA308087947A7AB03711CB6A0922027E6.tmp' to '../../../../../../Users/gustav.anderssongut/Documents/GitHub/DeathBattle2.0/DeathBattle/Content/Map/NewMap_BuiltData.uasset'
+[2021.09.09-08.12.14:128][207]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.09-08.12.14:128][207]LogContentValidation: Display: Validating World /Game/Map/NewMap.NewMap
+[2021.09.09-08.12.14:128][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/NewMap_BuiltData.NewMap_BuiltData
